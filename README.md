@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Raycast-Store-red.svg" alt="Webpage to Markdown on Raycast store.">
   </a>
 
-  <p>Transform any webpage into clean markdown. View directly in Raycast or copy to clipboard. Perfect for developers, note-takers and content-creators who need to save web content in markdown format.</p>
+  <p style="margin-top: 20px;">Transform any webpage into clean markdown. View directly in Raycast or copy to clipboard. Perfect for developers, note-takers and content-creators who need to save web content in markdown format.</p>
 
   <div style="display: flex; justify-content: center; gap: 20px; margin: 40px 0;">
     <div>

@@ -1,8 +1,33 @@
+<div align="center">
+
 # Webpage to Markdown
 
-Transform any webpage into clean markdown instantly. Perfect for content creators, developers, and note-takers who want to quickly convert web content into markdown format.
+</div>
 
-![Webpage to Markdown](./metadata/webpage-to-markdown-2.png)
+<div align="center">
+  <a href="https://github.com/treyg">
+    <img src="https://img.shields.io/github/followers/treyg?label=Follow%20treyg&style=social" alt="Follow @treyg">
+  </a>
+  <a href="https://github.com/treyg/raycast-webpage-to-markdown/stargazers">
+    <img src="https://img.shields.io/github/stars/treyg/raycast-webpage-to-markdown?style=social" alt="Stars">
+  </a>
+  <a href="https://www.raycast.com/treyg/webpage-to-markdown">
+    <img src="https://img.shields.io/badge/Raycast-Store-red.svg" alt="Webpage to Markdown on Raycast store.">
+  </a>
+
+  <p>Transform any webpage into clean markdown. View directly in Raycast or copy to clipboard. Perfect for developers, note-takers and content-creators who need to save web content in markdown format.</p>
+
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 40px 0;">
+    <div>
+      <h4>Input</h3>
+      <img src="./metadata/webpage-to-markdown-3.png" alt="Input Example" width="400"/>
+    </div>
+    <div>
+      <h4>Output</h3>
+      <img src="./metadata/webpage-to-markdown-2.png" alt="Output Example" width="400"/>
+    </div>
+  </div>
+</div>
 
 ## Features
 
@@ -23,4 +48,3 @@ Transform any webpage into clean markdown instantly. Perfect for content creator
 - Add YAML front matter with metadata
 - Include organized links summary at the end
 - Add Jina.ai API key for higher rate limits
-# raycast-webpage-to-markdown

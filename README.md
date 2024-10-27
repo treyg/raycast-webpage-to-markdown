@@ -23,3 +23,4 @@ Transform any webpage into clean markdown instantly. Perfect for content creator
 - Add YAML front matter with metadata
 - Include organized links summary at the end
 - Add Jina.ai API key for higher rate limits
+# raycast-webpage-to-markdown
